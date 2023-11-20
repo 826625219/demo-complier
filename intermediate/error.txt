@@ -1,0 +1,34 @@
+line:6 record w1 成员 x 重复定义 
+line:22 重复变量: i 
+line:33 变量不存在: zyb 
+line:35 record w1 不存在成员 c 
+line:36 数组越界: index:11, l:0, r:4 
+line:36 = 运算失败: [('w1', 'CharK'), ('1', 'IntegerK')] 
+line:38 + 运算失败: [('v1', 'IntegerK'), ("'c'", 'CharK')] 
+line:41 + 运算失败: [('+', 'IntegerK'), ("'w'", 'CharK')] 
+line:46 数组越界: index:10, l:0, r:4 
+line:47 数组下标不合法: 'c', kind: CharK 
+line:50 调用失败: ['IntegerK', 'IntegerK'] ['IntegerK', 'IntegerK', 'CharK', 'CharK'] 
+line:51 procDeck 类型错误: a ArrayK 
+line:52 procDeck 查找失败: zyb 
+line:53 变量类型错误: p IdV ProcDecK 
+line:53 变量类型错误: p IdV ProcDecK 
+line:54 变量类型错误: a IdV ArrayK 
+line:54 变量类型错误: a IdV ArrayK 
+line:6 record w1 成员 x 重复定义 
+line:22 重复变量: i 
+line:33 变量不存在: zyb 
+line:35 record w1 不存在成员 c 
+line:36 数组越界: index:11, l:0, r:4 
+line:36 = 运算失败: [('w1', 'CharK'), ('1', 'IntegerK')] 
+line:38 + 运算失败: [('v1', 'IntegerK'), ("'c'", 'CharK')] 
+line:41 + 运算失败: [('+', 'IntegerK'), ("'w'", 'CharK')] 
+line:46 数组越界: index:10, l:0, r:4 
+line:47 数组下标不合法: 'c', kind: CharK 
+line:50 调用失败: ['IntegerK', 'IntegerK'] ['IntegerK', 'IntegerK', 'CharK', 'CharK'] 
+line:51 procDeck 类型错误: a ArrayK 
+line:52 procDeck 查找失败: zyb 
+line:53 变量类型错误: p IdV ProcDecK 
+line:53 变量类型错误: p IdV ProcDecK 
+line:54 变量类型错误: a IdV ArrayK 
+line:54 变量类型错误: a IdV ArrayK 

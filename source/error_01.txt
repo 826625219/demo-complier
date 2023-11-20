@@ -1,0 +1,7 @@
+{词法错误}
+program p
+begin
+  a:1;
+  b:=2?
+  c:=!
+end.
